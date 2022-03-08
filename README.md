@@ -7,3 +7,5 @@ Hi. I created some useful examples in python about Computational Quantum Hall Ef
 - Calculate Chern Numbers in Real Space
 - Calculate Density Profile on 2-D Lattice
 - Animate the Wave Packet Motion on 2-D Latice
+
+I hope it helps :)
