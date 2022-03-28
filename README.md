@@ -8,4 +8,4 @@ Hi. I created some useful examples in python about Computational Quantum Hall Ef
 - Calculate Density Profile on 2-D Lattice
 - Animate the Wave Packet Motion on 2-D Latice
 
-I hope it helps :)
+If you want further information about my codes, you can to look up my medium page:https://canblogum.medium.com/
