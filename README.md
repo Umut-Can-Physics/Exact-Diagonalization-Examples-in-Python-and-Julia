@@ -2,7 +2,7 @@
 
 Hi. I created some useful codes in python about * Computational Quantum Hall Effect *. You can find follow things in repositories:
 
-# Plot of Hofstadter Butterfly
+### Plot Hofstadter Butterfly
 <p float="left">
   <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-10.png" width="500" />
   <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="500" /> 
