@@ -4,8 +4,8 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
 
 ### Plot Hofstadter Butterfly
 <p float="left">
-  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-10.png" width="500" />
-  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="500" /> 
+  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-10.png" width="400" />
+  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="400" /> 
 </p>
 
 - Find Nearst-Neighbors of Sites
