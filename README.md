@@ -32,7 +32,13 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/Kapit-Mueller%20Flat%20Band%20Model.png" width="300" />
 </p>
 
-### Kagome
+### Kagome Lattice
+<p float="left">
+  <img src="outputs/2D%20Kagome%20Lattice.png" width="300" />
+  <img src="outputs/Kagome%20Energy%20Bands.png" width="300" /> 
+  <img src="outputs/Kagome%20FBZ.png" width="300" />
+  <img src="outputs/Energies%20of%20Kagome%20Model%20in%20Momentum%20and%20Real%20Spaces.png" width="300" /> 
+</p>
 
 ### And More!
 - Exact Compare to Energies for Hofstadter and Kagome Lattice in Real and Momentum Spaces 
