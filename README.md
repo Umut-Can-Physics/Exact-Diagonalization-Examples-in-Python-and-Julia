@@ -27,7 +27,11 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/Cyclotron%20Orbit%20Simulation.gif" width="300" /> 
 </p>
 
-- Kapit-Mueller Model
+### Kapit-Mueller Flat Band Model
+<p float="left">
+  <img src="outputs/Kapit-Mueller%20Flat%20Band%20Model.png" width="300" />
+</p>
+
 - Calculate Chern Numbers in Real Space
 - Calculate Density Profile on 2-D Lattice
 - Animate the Wave Packet Motion on 2-D Latice
