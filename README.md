@@ -32,6 +32,10 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/Kapit-Mueller%20Flat%20Band%20Model.png" width="300" />
 </p>
 
+### Kagome
+
+### And More!
+- Exact Compare to Energies for Hofstadter and Kagome Lattice in Real and Momentum Spaces 
 - Mand-Body Lattice in Julia and Python
 - Chern Number Calculation in Real and Momentum Spaces
 
