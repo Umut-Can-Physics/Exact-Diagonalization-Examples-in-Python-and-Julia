@@ -4,13 +4,13 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
 
 ### Plot Hofstadter Butterfly
 <p float="left">
-  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-10.png" width="400" />
-  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="400" /> 
+  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-10.png" width="300" />
+  <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="300" /> 
 </p>
 
 ### Find Nearst-Neighbors Sites on Square Lattice
 <p float="left">
-  <img src="outputs/2D%20Square%20Lattice.png" width="400" />
+  <img src="outputs/2D%20Square%20Lattice.png" width="300" />
 </p>
 
 - Find Energy of Real Space Hamiltonians
