@@ -1,6 +1,6 @@
 # Quantum-Hall-Effect-In-Python
 
-Hi. I created some useful codes in python about * Computational Quantum Hall Effect *. You can find follow things in repositories:
+Hi. I created some useful codes in python about *Computational Quantum Hall Effect*. You can find follow things in repositories:
 
 ### Plot Hofstadter Butterfly
 <p float="left">
