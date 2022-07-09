@@ -13,7 +13,8 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/2D%20Square%20Lattice.png" width="300" />
 </p>
 
-- Find Energy of Real Space Hamiltonians
+### Real Space Hofstadter Model
+
 - Kapit-Mueller Model
 - Calculate Chern Numbers in Real Space
 - Calculate Density Profile on 2-D Lattice
