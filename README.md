@@ -32,8 +32,6 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/Kapit-Mueller%20Flat%20Band%20Model.png" width="300" />
 </p>
 
-- Calculate Chern Numbers in Real Space
-- Calculate Density Profile on 2-D Lattice
-- Animate the Wave Packet Motion on 2-D Latice
+- Mand-Body Lattice in Julia and Python
 
 If you want further information about my codes, you can to look up my medium page:https://canblogum.medium.com/
