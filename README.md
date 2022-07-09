@@ -8,7 +8,9 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
   <img src="outputs/Hofstadter%20Butterfly%20for%20q=1-50.png" width="400" /> 
 </p>
 
-- Find Nearst-Neighbors of Sites
+### Find Nearst-Neighbors Sites on Square Lattice
+![](outputs/2D%20Square%20Lattice.png)
+
 - Find Energy of Real Space Hamiltonians
 - Kapit-Mueller Model
 - Calculate Chern Numbers in Real Space
