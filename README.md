@@ -44,5 +44,6 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
 - Exact Compare to Energies for Hofstadter and Kagome Lattice in Real and Momentum Spaces 
 - Mand-Body Lattice in Julia and Python
 - Chern Number Calculation in Real and Momentum Spaces
+- Topological Degeneracy
 
 If you want further information about my codes, you can to look up my medium page:https://canblogum.medium.com/
