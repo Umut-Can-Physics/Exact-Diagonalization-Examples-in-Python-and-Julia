@@ -9,7 +9,9 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
 </p>
 
 ### Find Nearst-Neighbors Sites on Square Lattice
-![](outputs/2D%20Square%20Lattice.png)
+<p float="left">
+  <img src="outputs/2D%20Square%20Lattice.png" width="400" />
+</p>
 
 - Find Energy of Real Space Hamiltonians
 - Kapit-Mueller Model
