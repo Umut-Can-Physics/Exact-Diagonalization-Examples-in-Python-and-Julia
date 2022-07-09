@@ -14,6 +14,12 @@ Hi. I created some useful codes in python about *Computational Quantum Hall Effe
 </p>
 
 ### Real Space Hofstadter Model
+<p float="left">
+  <img src="outputs/Compare%20Real%20and%20Momentum%20Space%20Energies%20for%20Hofstadter%20Model.png" width="300" />
+  <img src="outputs/Hard-Wall%20PBC%20Energies%20of%20Hofstadter%20Model%20for%20Find%20Edge%20States.png" width="300" /> 
+  <img src="outputs/Edge%20State.png" width="300" />
+  <img src="outputs/Non-Edge%20State.png" width="300" /> 
+</p>
 
 - Kapit-Mueller Model
 - Calculate Chern Numbers in Real Space
