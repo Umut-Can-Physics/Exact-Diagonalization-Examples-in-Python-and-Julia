@@ -1,6 +1,7 @@
 # Quantum-Hall-Effect-In-Python
 Hi. I created some useful examples in python about Computational Quantum Hall Effect. You can find follow things in repositories:
 - Plot of Hofstadter Butterfly
+![](outputs/Hofstadter Butterfly for q=1-10.png)
 - Find Nearst-Neighbors of Sites
 - Find Energy of Real Space Hamiltonians
 - Kapit-Mueller Model
