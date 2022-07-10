@@ -1,4 +1,4 @@
-# Quantum-Hall-Effect-In-Python
+# Background Works of My The Undergaduate Thesis
 
 Hi. I created some useful codes in python about *Computational Quantum Hall Effect*. You can find follow things in repositories:
 
